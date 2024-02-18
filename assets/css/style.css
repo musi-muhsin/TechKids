@@ -1,0 +1,9 @@
+.navbar-brand {
+    width: 15%;
+}
+
+@media (max-width:768px)  {
+    .navbar-brand {
+        width: 35%;
+    }
+}
